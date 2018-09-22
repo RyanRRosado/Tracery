@@ -1,0 +1,112 @@
+{
+	"name": [
+		"Alex",
+		"Meg",
+		"Ryan",
+		"Dayton",
+		"Rayna",
+		"Milan",
+		"Beth",
+		"Chris"
+	],
+	"occupation": [
+		"lawyer",
+		"chef",
+		"salesman",
+		"teacher",
+		"painter",
+		"model"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #color# #animal# in dreams.  For a #weather# #day# #time# in #month#, it sure was #feeling# to be #event# it."
+	],
+	"always": [
+		"never",
+		"rarely",
+		"sometimes",
+		"always"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"imagining",
+		"remembering",
+		"forgetting"
+	],
+	"color": [
+		"red",
+		"blue",
+		"green",
+		"yellow",
+		"purple",
+		"pink",
+		"black",
+		"white"
+	],
+	"animal": [
+		"tiger",
+		"lion",
+		"bear",
+		"salmon",
+		"hawk",
+		"dog",
+		"cat",
+		"rabbit"
+	],
+	"day": [
+		"monday",
+		"tuesday",
+		"wednesday",
+		"thursday",
+		"friday",
+		"saturday",
+		"sunday"
+	],
+	"month": [
+		"january",
+		"february",
+		"march",
+		"april",
+		"may",
+		"june",
+		"july",
+		"august",
+		"september",
+		"october",
+		"november",
+		"december"
+	],
+	"time": [
+		"morning",
+		"afternoon",
+		"evening",
+		"night"
+	],
+	"feeling": [
+		"exciting",
+		"weird",
+		"annoying",
+		"draining",
+		"uplifting",
+		"frightening",
+		"uncomfortable",
+		"eerie",
+		"heartwarming"
+	],
+	"event": [
+		"remembering",
+		"experiencing",
+		"seeing",
+		"hearing",
+		"watching",
+		"noticing"
+	],
+	"weather": [
+		"rainy",
+		"humid",
+		"cloudy",
+		"hot",
+		"cold",
+		"foggy"
+	]
+}
